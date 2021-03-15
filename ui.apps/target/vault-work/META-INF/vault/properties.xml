@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>jenkinProject - UI apps</comment>
+<entry key="createdBy">Lenovo</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">jenkinProject.ui.apps</entry>
+<entry key="created">2021-03-15T22:17:37.721+05:30</entry>
+<entry key="groupId">com.jenkins</entry>
+<entry key="version">1.0</entry>
+<entry key="packageType">mixed</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">jenkinProject</entry>
+<entry key="description">UI apps package for jenkinProject</entry>
+<entry key="artifactId">jenkinProject.ui.apps</entry>
+</properties>

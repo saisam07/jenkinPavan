@@ -1,0 +1,11 @@
+com\jenkins\jenkinProject\core\schedulers\SimpleScheduledTask$Config.class
+com\jenkins\jenkinProject\core\models\HelloWorldModel.class
+com\jenkins\jenkinProject\core\models\package-info.class
+com\jenkins\jenkinProject\core\filters\LoggingFilter.class
+com\jenkins\jenkinProject\core\listeners\package-info.class
+com\jenkins\jenkinProject\core\filters\package-info.class
+com\jenkins\jenkinProject\core\servlets\package-info.class
+com\jenkins\jenkinProject\core\servlets\SimpleServlet.class
+com\jenkins\jenkinProject\core\schedulers\package-info.class
+com\jenkins\jenkinProject\core\schedulers\SimpleScheduledTask.class
+com\jenkins\jenkinProject\core\listeners\SimpleResourceListener.class
